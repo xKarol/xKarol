@@ -26,6 +26,9 @@ Discord: Karol#0237
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
 </a>
 <a href="" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+</a>
+<a href="" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components"/>
 </a>
 <a href="" target="_blank" rel="noreferrer">
