@@ -51,6 +51,10 @@ Discord: Karol#0237
 <a href="" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </a>
+<a href="" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress"/>
+</a>
+  
 
 <a href="" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"/>
