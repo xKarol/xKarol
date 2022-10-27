@@ -5,7 +5,10 @@ Discord: Karol#0237
 
 ## 💻 Languages and Tools:
 <p align="left"> 
-
+ 
+<a href="" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>
+</a>
 <a href="" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/>
 </a>
