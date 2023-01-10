@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karol</h1>
 
 ## 🔗 Connect with me:
-Discord: Karol#0237
+![discord](https://img.shields.io/badge/Karol%230237-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 ## 💻 Languages and Tools:
 <p align="left"> 
