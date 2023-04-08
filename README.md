@@ -71,7 +71,15 @@
 </a>
 
 <a href="" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma"/>
+</a>
+
+<a href="" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white" alt="Playwright"/>
+</a>
+
+<a href="" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="JEST"/>
 </a>
   
 <a href="" target="_blank" rel="noreferrer">
