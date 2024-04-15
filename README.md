@@ -23,6 +23,10 @@
 </a>
 
 <a href="" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE" alt="Astro JS"/>
+</a>
+
+<a href="" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React JS"/>
 </a>
 
