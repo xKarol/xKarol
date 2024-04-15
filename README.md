@@ -27,6 +27,10 @@
 </a>
 
 <a href="" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/Solid%20JS-2C4F7C?style=for-the-badge&logo=solid&logoColor=white" alt="Solid JS"/>
+</a>
+
+<a href="" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React JS"/>
 </a>
 
