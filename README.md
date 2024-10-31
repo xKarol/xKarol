@@ -71,6 +71,10 @@
 </a>
 
 <a href="" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/storyblok-00b3b0?style=for-the-badge&logo=storyblok&logoColor=white" alt="Storyblok"/>
+</a>
+
+<a href="" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/strapi-2e7eea?style=for-the-badge&logo=strapi&logoColor=white" alt="Strapi"/>
 </a>
 
